@@ -1,2 +1,2 @@
 # WarCardGame
-Project to simulate the card game war
+Small project I did in 2013 to simulate the card game War.
