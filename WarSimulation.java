@@ -15,7 +15,7 @@ public class WarSimulation {
     	while (true)
     	{	    	
 	    	Scanner kb = new Scanner(System.in);
-		    System.out.print("Number of Trials: ");   	
+		System.out.print("Number of Trials: ");   	
 	    	int trials = kb.nextInt();
 	    	
 	    	if (trials == 0)
